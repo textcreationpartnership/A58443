@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An honest letetr [sic] to a doubtful friend about the rifling of the twentieth part of his estate</title>
+            <author>T. R.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58443</idno>
+            <idno type="STC">Wing R83</idno>
+            <idno type="STC">ESTC R219434</idno>
+            <idno type="EEBO-CITATION">08733024</idno>
+            <idno type="OCLC">ocm 08733024</idno>
+            <idno type="VID">41695</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58443)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41695)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1267:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An honest letetr [sic] to a doubtful friend about the rifling of the twentieth part of his estate</title>
+                  <author>T. R.</author>
+               </titleStmt>
+               <extent>[6] p.   </extent>
+               <publicationStmt>
+                  <publisher>by Stephen Bulkley,</publisher>
+                  <pubPlace>Printed at York :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"By speciall command."</note>
+                  <note>Signed: T.R.</note>
+                  <note>A defense of the royalists.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41695:1" rendition="simple:additions"/>
+            <p>AN HONEST LETETR TO A DOUBTFULL <hi>FRIEND,</hi> ABOUT The rifling of the Twentieth <hi>part of his Eſtate.</hi>
+            </p>
+            <p>Printed at <hi>York</hi> by <hi>Stephen Bulkley,</hi> 1642.</p>
+            <p>By ſpeciall Command.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:41695:2"/>
+            <pb facs="tcp:41695:2"/>
+            <head>TO HIS MUCH ESTEEMED FRIEND and Kinſman Sir <hi>H. W.</hi> at his Houſe in <hi>Weſtminſter.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He indiſpoſition of my body hath confined me to my Chamber, we muſt now therefore diſcourſe by letters: your Petition for peace I ſee is not ſo hap<g ref="char:EOLhyphen"/>py as to find ſucceſſe in Parliament, at which while I wondred I began to conſider the reaſons, which are diverſe as the perſons oppoſing it, Therefore you muſt firſt obſerve the oppoſers, and then the reaſons will be evident. It is not fit the Houſes of Parliament ſhould deny the obedient Citizens of London any thing, for that may be diſtaſtfull to the City; nor yet grant the req<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt of the Petition, for that may be deſtructive to the Profit of many Members of both Houſes, and to ſome even of the City it ſelfe. It was there<g ref="char:EOLhyphen"/>fore wiſely done of my abortive Lord Major and his Zealous Sectaries to attempt the ſtrangling of it in the birth, by Committing ſome that were active about it; their Reaſons are Reformation of Religion, that is, aboliſhing the Booke of Common-prayer as Popiſh, though juſtified by the <hi>Compo<g ref="char:EOLhyphen"/>ſers Martyrdome</hi> imder the Popiſh tyranny, but that will make way for their new doctrines and extemporary bablings; next the diſſolving of Biſhopricks and Deanries will rep<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y the mo<g ref="char:EOLhyphen"/>ny lent upon the publique faith, for advancing the <hi>Lords Wa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r,</hi> (for ſo they miſcall Treaſon) and conclude, that being <hi>the Lords debt,</hi> it is fitteſt to be p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id out of the Lords inheritance: then Biſhop being eradicated Elders may grow up and flouriſh as in <hi>Suſannaes</hi> dayes. And 'tis Conſiderable, that the eſtates of
+<pb facs="tcp:41695:3"/>Malignants will be juſt rewards for the godly laborers in this harveſt, all which will be loſt by a beggerly accommodation.</p>
+            <p>Touching the Houſes of Parliament, which conſiſts of a<g ref="char:EOLhyphen"/>bout 140 Lords, and 500 Commoners, of which not a fifth part do attend in their ſeverall Houſes, ſome being voted out, others committed for not conforming their Conſciences to the ſenſe of the Houſe; and very many, diſliking the proceed<g ref="char:EOLhyphen"/>ings and tumults, left the Houſe and repaired to the King, with whom a greater part I am ſure is, then attend both Houſes, being come to preſerve their oathes of Allegiance which is perſonall to the King.</p>
+            <p>Take (Sir) but a view of ſuch as ſit and act the buſineſſe in the Houſes of Parliament, obſerve who among them have Commands and places of profit in and about this warre; then examine their ſmall eſtate, with their great debt and charge; the rich profit of their command with their poor Revenew. You may find the Earles of <hi>Northumberland, Pembrook, Rut<g ref="char:EOLhyphen"/>land, Salisbury, Holland,</hi> ſitting in the Lords Houſe; and in the Houſe of Commons Sir <hi>Edward Hales,</hi> Sir <hi>George Stone<g ref="char:EOLhyphen"/>houſe,</hi> Sir <hi>Alexander Denton</hi> M. <hi>Edw, Waller,</hi> M. <hi>Maynard,</hi> M. <hi>Thomas Cooke,</hi> Sir <hi>Thomas Hutchinſon,</hi> M. <hi>Phillips,</hi> M. <hi>El<g ref="char:EOLhyphen"/>lis,</hi> and others, all voting for Peace, to preſerve the Eſtates they have, not find them in the liſt of Officers to get mainte<g ref="char:EOLhyphen"/>nance. All men know my miſled Lord of <hi>Eſſex</hi> loſt the beſt of his eſtate in loſt <hi>Ireland,</hi> and his whole debt, and great Ac<g ref="char:EOLhyphen"/>compt to his Nephew <hi>Shirley</hi> is to be paid out of a ſmall Re<g ref="char:EOLhyphen"/>mainder; hath not my Lord of <hi>Warwick</hi> ſould all he can, but yet his creditors take new promiſes for old debts, though he be reſponſall for 400000 pound <hi>prout per accompt?</hi> are the Lords of <hi>Peterborough, Stamford, Say,</hi> and <hi>Brook,</hi> neceſſi<g ref="char:EOLhyphen"/>tous? their debts and charges preſſing? then their com<g ref="char:EOLhyphen"/>mands are double; both horſe and foot. The Lords <hi>Haſtings, Rachford, wharton</hi> Sr. <hi>Iohn Mandevill, Peelding, Gray</hi> of <hi>Grooby,</hi> Sir <hi>Hugh Chamley,</hi> Sir <hi>Samuell Luke,</hi> S<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r <hi>Iohn Merick,</hi> M. <hi>Nathaniell Fines,</hi> M. <hi>Martin.</hi> Maſter <hi>Wingate,</hi> M. <hi>Walton,</hi> M. <hi>Cromwell,</hi> Colonell <hi>
+                  <g ref="char:V">Ʋ</g>enne,</hi> M. <hi>Iohn More,</hi> and others, are men whoſe credit (as appears by
+<pb facs="tcp:41695:3"/>Screveners bookes) is as great as their eſtates, not invited to Commands by the profit of their places, but by their Conſci<g ref="char:EOLhyphen"/>entious zeale to the Cauſe; others of the Houſes (leaſt any water ſhould run beſide their Mill) preferre their Sonnes, Brothers, and neere friends, to places and imploy<g ref="char:EOLhyphen"/>ments of profit about this warre, as M. <hi>Pym</hi> is ſonne <hi>Alex<g ref="char:EOLhyphen"/>ander,</hi> Sir <hi>H. Mildemay</hi> his brother <hi>Anthony,</hi> my Lord <hi>Say</hi> his ſonne, <hi>Iohn,</hi> and others other friends, while ſome men of the Houſe have confeſt that the pay made them undertake the cauſe; and which of all theſe, ſave Sir <hi>John Merick,</hi> knowes ought of his place but the profit? Nay many of them for the better ſervice fight by their Lieutenants, as they pay debts by their ſuerties, and how many of them, ſave two or three which are taken priſoners, received a wound, or ſtruck one blow in the late battells of <hi>Edge</hi> and <hi>Brainceford,</hi> what hopes then theſe men will give their Votes and 12 or 1500 l <hi>per ann.</hi> for a barren peace? Will my Lord Major ſubſcribe a Pe<g ref="char:EOLhyphen"/>tition that ſhall take away his toll, 12 d for paſſes out of <hi>London?</hi> or Colonell <hi>Mannering,</hi> the craſed Mercer, Captain <hi>Baſse</hi> the Lace-man, Captain <hi>Maſon,</hi> the Button-maker, Cap<g ref="char:EOLhyphen"/>tain <hi>Witherly</hi> the Pewterer, Captain <hi>Capcote</hi> the Broaker, Captain <hi>Lee</hi> the <hi>Vintner,</hi> with the Cunnyskin Captain in <hi>Southwarke,</hi> and divers other Debt-compounding-Citizens their pay and protections againſt Creditors, and leave them<g ref="char:EOLhyphen"/>ſelves nought but a Goale to live in? What can you hope for by your Petition that theſe men, and the like, can hinder?</p>
+            <p>Now ſurveigh the Popiſh and beggerly Lords and Cava<g ref="char:EOLhyphen"/>liers for and about the King, as the Duke of <hi>Richmond,</hi> the Marqueſſe <hi>Hartford,</hi> Earles of <hi>Cumberland, Darby, Lindſey, Bath, Dorſet, Bridgwater, Danby, Leiceſter, Devonſhire, North-Hampton, Cheſterfield, Briſtoll, Weſtmerland, Barkeſhire, New<g ref="char:EOLhyphen"/>caſtle, Carnarvon, Kingſton</hi> and <hi>Thanet.</hi> The Lords <hi>Mowbray, Mountague</hi> of <hi>Baughton, Dainecourt, Shandoys, Spencer, Gray, Mohume, Dunſmore, Newarke, Seymore, Capell,</hi> and others; Then of the Houſe of Commons, Sir <hi>Chriſtop. Hatton,</hi> Sr. <hi>Jar<g ref="char:EOLhyphen"/>vas Clifton,</hi> S. <hi>Guy Palmes,</hi> S. <hi>Iames Thin,</hi> M. <hi>Iohn Coventry,</hi> M. <hi>Henry</hi> and M. <hi>Iohn Bellaſſey,</hi> Sir <hi>Tho: Fanſhaw,</hi> Sir <hi>Richard
+<pb facs="tcp:41695:4"/>Lewſon,</hi> Sir <hi>Thomas: Danby,</hi> Sir <hi>Ioh. Packington,</hi> Sir <hi>Ric. Lee,</hi> Sir <hi>Charles le Groſſe,</hi> Maſt: <hi>Catline,</hi> Maſt: <hi>Holborne,</hi> Mr: <hi>Bridgeman,</hi> Mr <hi>Chadwell,</hi> Sir <hi>Iohn Strangewayes</hi> &amp; his ſon, M. <hi>Iohn Dighy,</hi> Sr <hi>Edw: Derring,</hi> Sr <hi>Will: Widdrington,</hi> M. <hi>
+                  <g ref="char:V">Ʋ</g>enables,</hi> Baron of <hi>Kin<g ref="char:EOLhyphen"/>nerton,</hi> M. <hi>Rogers,</hi> M. <hi>Newport,</hi> Sir <hi>Edw: Alford,</hi> M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Whitmore,</hi> Mr <hi>Chitchley,</hi> M. <hi>Edgcomhe,</hi> M. <hi>Tho: Fanſhaw,</hi> M. <hi>Crook,</hi> M. <hi>No<g ref="char:EOLhyphen"/>well,</hi> M. <hi>Sutton,</hi> Sr <hi>Will. Oagle,</hi> Sr <hi>Will. Poole,</hi> &amp; one hundred more then my paper will hold, men of underſtanding and known inte<g ref="char:EOLhyphen"/>grity, &amp; which of all theſe whoſe age and health would permit, adventured not their lives and eſtates in this warr with the King? Now let's examinine their Religion, and you ſhall find them dai<g ref="char:EOLhyphen"/>ly at Sermons and ſervice with the King, hearing and practiſing the ſame Proteſtant Religion and Lithergy, that ſaved our Fa<g ref="char:EOLhyphen"/>ther, and hath been in our Church ever ſince the Reformation, and which we have volved by the late Proteſtation to maintaine, then (no doubt) neither the King nor they are likely to bring in Popery, nor be Separatiſts.</p>
+            <p>That they are men of Eſtates the Counties that elected them (if not the Kingdom) k<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>owes, and which of them hath any profit by the warr? which of them goes not himſelfe and ſervants to the warr at his owne charge? Nay, which of them hath not otherwiſe in a large manner contributed to the maintenance of the Kings Army, and that without any Com<g ref="char:EOLhyphen"/>mand of any Ordinance; yet even againſt the Declaration of the Houſes? what would they and others then have done, had an Order of the Houſes directed it as on the other ſide? By this then you ſee they are neither Popiſhly nor beggerly; Nor can have any reward or hopes of repaire out of the eſtate of the adverſe party.</p>
+            <p>But they would induce arbitrary goverment: I pray what proofe is there of that? what one <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct hath the King done ſince the Commence of the Parliament that ſavoures of arbitrary juſtice? whom hath be diſtrained, committed, or turned out of the Towne for not lending? nay what hath he not done to aſſure us the contrary? Reade His Declarati<g ref="char:EOLhyphen"/>ons, obſerve his regall promiſes and proteſtations, and then
+<pb facs="tcp:41695:4"/>tell me what Chriſtian (that hath charity) or what man (that would be beleeved) will not beleeve him; Hath he not regu<g ref="char:EOLhyphen"/>lated the Councell-Table; damned the Shipwrits; ſuppreſt the high-Commiſſion and Martiall-Court: Nay, hath he not left all things to be tried by ſtrict proceedings of Law?</p>
+            <p>Whom can arbitrary juſtice more prejudice, then thoſe now about and with the King, the Rich and welthy men? ſurely then they will not be a meanes to induce that law that ſhall undoe, &amp; inſlave them, their children, families and eſtates. Yet muſt we lend mony, ſend horſes, and raiſe Armes againſt theſe popiſh and beggerly Cavaliers, For it is not againſt the King, that were Treaſon, and breach of our late proteſtation, which is to defend His Majeſty, yet was the King; Perſon in danger at <hi>Edge-Hill</hi> Battle, when the undiſtinguiſhing ſhott tooke ſome perſons even about the King; but God did then, and I hope alwayes will cover His hoadlin the day of Battell.</p>
+            <p>Upon theſe Conſiderations, Sir I cannot beleeve or feare the reducement of Popery or arbitrary Iuſtice; nor thinke my conſcience, perſon, or eſtate, tyed by the neceſſitous Or<g ref="char:EOLhyphen"/>dinance of both Houſes (for want of an act of Parliament) to pay or let the twentieth part of my eſtate (which you know may come to three or foure hundred pound) be taken to ſup<g ref="char:EOLhyphen"/>port a warre, wherein the Perſon of the King (which God forbid) may be hurt.</p>
+            <p>I am ſure that while God promiſed the Scepter to <hi>Juda,</hi> he put the Law-giver betweene this feet, to let us know, That the legiſlative power is neither above, nor without the King. And I know the King by His Writs, doth call them to adviſe with him, not to reſolve without him. I will therefore keepe my hands from giving and ſo preſerve my conſcience; I will faſt bolt my doores, and ſo preſerve my perſon and eſtate, untill a ſtronger then I come. For I had rather others committed treſpaſſe in taking, then I treaſon in giving. And I am ſure that both Armies are not on the right ſide, but one, with all their voluntary maintainers and a betters, muſt, without Gods inſinite mercy, be guilty of the blood of all the men ſlayne on either ſide. I ſhall therefore, for my particular, beleeve and
+<pb facs="tcp:41695:5" rendition="simple:additions"/>follow the rule of the Apoſtle, to <hi>obey the King, for He is ſet over us by God;</hi> rather then runne with the new opinions and contrary doctrine of our militant Evangeliſts, Dr <hi>Bur<g ref="char:EOLhyphen"/>ges,</hi> Dr <hi>Downing,</hi> Mr. <hi>Marſhall,</hi> and <hi>Sedgwick,</hi> whoſe con<g ref="char:EOLhyphen"/>ſciences ſtart out of the way at a white Surpleſſe, but never boggle at garments <hi>rowled in blood.</hi> There are other things conſiderable with us Citizens alſo, as the returne of Sir <hi>Faithfull Forteſcue,</hi> Leivetenant <hi>Colonell Wagſtaffe,</hi> and my L. Eſſex favorite, Captain <hi>Scrimpſhaw,</hi> unto the King; next the danger and jealouſie we are in, that even ſome of the great ones will follow, for theſe are but harbengers,) and rather then come empty handed to their King, will make us their peace-offering.</p>
+            <p>Let's conſider the event of Warre, wherein we can yet boaſt nothing but our ſucceſſe at <hi>wincheſter.</hi> But had we had the day at <hi>Edge-hill,</hi> and totally routed the Cavaliers, would that have determined the warre? I feare rather have called in all the Monarches of Chriſtendome to maintaine Monarchy; and then were we ingaged, like the low Countreyes, in perpe<g ref="char:EOLhyphen"/>tuall blood. How great then is our ſtraight, for if we ſucceed we undoe our ſelves. If the King by victory, (or trechery of our Commanders) the labour's ſaved us then, for having re<g ref="char:EOLhyphen"/>fuſed his mercy, we muſt expect his juſtice.</p>
+            <p>I have now, Sir, unboſom'd my ſelfe to you my friend, let therefore my errors find a friendly reproofe, rectifying my miſtakes by your advice, which I ſhall take as Commands, returne you the thankefull acknowledgement of</p>
+            <p>Read and burne.</p>
+            <closer>
+               <signed>Your friend and Kinſeman T. R.</signed>
+               <dateline>
+                  <hi>Milkeſtreet</hi> London, <date>28, <hi>Decemb.</hi> 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
